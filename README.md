@@ -8,12 +8,6 @@ a template project for [Sri](https://github.com/chandu0101/sri) web
 
 sbt ~fastOptJS
 
-//open new terminal
-
-npm install
-
-npm start
-
-//open http://localhost:8090/ in browser
+//open index.html in browser
 
 ```
